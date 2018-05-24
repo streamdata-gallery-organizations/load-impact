@@ -3,7 +3,7 @@ name: Load Impact
 x-slug: load-impact
 description: Load Impact is a cloud-based SaaS for load testing and website optimization.   We
   offer load testing and reporting as a service. Try it for free at www.loadimpact.com
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10197-load-impact.jpg
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18849-load-impact.jpg
 x-kinRank: "7"
 x-alexaRank: "155979"
 tags: Load Impact
@@ -15,6 +15,8 @@ apis: []
 x-common:
 - type: x-blog
   url: http://blog.loadimpact.com/
+- type: x-blog-rss
+  url: http://blog.loadimpact.com/feed/
 - type: x-crunchbase
   url: https://crunchbase.com/organization/load-impact
 - type: x-email
@@ -25,12 +27,12 @@ x-common:
   url: 20press@loadimpact.com
 - type: x-email
   url: support@loadimpact.com
-- type: x-pricing
-  url: https://loadimpact.com/pricing
+- type: x-github
+  url: https://github.com/loadimpact
 - type: x-twitter
-  url: https://twitter.com/LoadImpact
+  url: https://twitter.com/loadimpact
 - type: x-website
-  url: http://loadimpact.com/
+  url: https://loadimpact.com/
 include: []
 maintainers:
 - FN: Kin Lane
